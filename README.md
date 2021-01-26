@@ -2,8 +2,8 @@
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/marcioambassador.ef)
 [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/marcio.barcellos2021)
 
-I have already had the opportunity to contribute to the implementation of systems improvement projects through integration and managed services. In addition, diagnostic software development projects, where it is possible to capture images of medical ultrasound devices and write reports in real time.
+I had the opportunity to contribute in the implementation of systems improvement projects through integration and managed services. In addition, diagnostic software development projects, where it is possible to capture images of medical ultrasound devices and issue reports in real time. I have experience in IT processes: Information Security, Infrastructure Management, Change Management, Systems Development, Database Management, Business Continuity, Operations and Monitoring.
 
-I have experience in IT processes: Information Security, Infrastructure Management, Change Management, Systems Development, Database, Business Continuity, Operations and Monitoring. Nowadays, I work in architecture and software development using Spring boot, Eclipse, VScode, in the MVC architecture pattern, back-end and front-end with React, AngularJS, NodeJS, HTML 5, CSS, Bootstrap, JavaScript, JSP / JPA, Jquery, Webservices, Apache tomcat, Database (MySQL, Postgree, Db2).
+Nowadays, I work in architecture and software development using Spring boot, Eclipse, VScode, in the MVC architecture pattern, back-end and front-end with React, AngularJS, NodeJS, HTML 5, CSS, Bootstrap, JavaScript, JSP / JPA, Jquery, Webservices, Apache tomcat, Database (MySQL, Postgree, Db2).
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=marciorbarcellos)
