@@ -1,6 +1,4 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/marciobarcellos/)
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/marcioambassador.ef)
-[<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/profile.php?id=100055259366923)
 
 I had the opportunity to contribute in the implementation of systems improvement projects through integration and managed services. In addition, diagnostic software development projects, where it is possible to capture images of medical ultrasound devices and issue reports in real time. I have experience in IT processes: Information Security, Infrastructure Management, Change Management, Systems Development, Database Management, Business Continuity, Operations and Monitoring.
 
