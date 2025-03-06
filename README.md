@@ -2,7 +2,7 @@
 
 I have had the opportunity to contribute to the implementation of systems improvement projects through integration and managed services. In addition, I have worked on diagnostic software development projects, where it is possible to capture images from medical ultrasound devices and issue reports in real time. I have also worked on robotic process automation (RPA) projects, applying my experience in analysis, architecture and software development to translate business requirements into efficient functional and technical solutions, driving automation and systems integration. I have experience in IT processes: Information Security, Infrastructure Management, Change Management, Systems Development, Database Management, Business Continuity, Operations and Monitoring.
 
-In some projects, I worked on software development using tools and frameworks such as Spring boot, VScode, Eclipse in the MVC architecture pattern, back-end and front-end with React, Angular, NodeJS, Npm, HTML 5, CSS, Bootstrap, JavaScript, JSP/JPA, Jquery, Webservices, Apache tomcat, Heroku, Git, Microsoft Azure, AWS, Database (SQL, Oracle, Postgree, Db2).
+In some projects, I worked on software development using tools and frameworks such as Spring boot, VScode, Eclipse in the MVC architecture pattern, back-end and front-end with React, Angular, NodeJS, Npm, HTML 5, CSS, Bootstrap, Java, JavaScript, JSP/JPA, Jquery, Webservices, Apache tomcat, Heroku, Git, Microsoft Azure, AWS, Database (SQL, Oracle, Postgree, Db2).
 
 🚀💻 Technologies & Tools
 
